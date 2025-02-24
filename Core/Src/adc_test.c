@@ -15,6 +15,7 @@
 //VARIABLES
 volatile int EOCflag=0;
 volatile uint16_t ADC_VAL= 0;
+volatile bool AWDflag=false;
 
 
 
@@ -28,14 +29,18 @@ int main(void)
 	usart_USART2_GPIO_CONFIG();
 	//ADC Config
 	gpio_ADC_config();
-	//adc_SingleAWD_Config(ADC_ChannelSampling_JoysticX, 3000, 2000);
 	adc_SINGLEchannel_AutoDelayedConversionMode_continuous_Config_PLLSAI1src(ADC_SingleSelect_JoysticX, ADC_ChannelSampling_JoysticX);
+	adc_SingleAWD_Config(ADC_SingleSelect_JoysticX, 3000, 2000);
 	adc_EOCIE_ENABLE();
 
 	while(1){
 		if(EOCflag){
 			printf("The ADC value is %u\n\r", (int)ADC_VAL);
 			EOCflag=0;
+			if(AWDflag){
+				printf("AWD was trigger\n\r");
+				AWDflag=false;
+			}
 		}
 		else{
 			printf("ADC Value read failed\n\r");
@@ -48,8 +53,13 @@ int main(void)
 void ADC1_IRQHandler(void){
 	if( (ADC1->ISR & (ADC_ISR_EOC) ) ){
 		EOCflag=1;
-		NVIC_ClearPendingIRQ(ADC1_IRQn);
 		//Clear the end of conversion flag-->ADC1->ISR |= (ADC_ISR_EOC) or:
 		ADC_VAL=adc_READ_Value();
 	}
+	if( (ADC1->ISR & (ADC_ISR_AWD1) ) ){
+		AWDflag=true;
+		ADC1->ISR |= (ADC_ISR_AWD1);
+		NVIC_ClearPendingIRQ(ADC1_IRQn);
+	}
+
 }
