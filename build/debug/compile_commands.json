@@ -1,0 +1,80 @@
+[
+{
+  "directory": "C:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/build/debug",
+  "command": "C:\\PROGRA~1\\ARM_TO~1\\bin\\AR19DD~1.EXE -IC:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/Core/Inc -IC:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/CMSIS/Include -IC:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/Peripherals/Inc -IC:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/Application/Inc  -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -g3 -DDEBUG -DSTM32L432xx -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage --specs=nano.specs -std=gnu11 -g -std=gnu11 -o CMakeFiles\\BEGINNER_STM32L432KC.dir\\Core\\Src\\adc_dma_test.c.obj -c C:\\Users\\DANNY\\STM32CubeIDE\\BEGINNER_STM32L432KC\\Core\\Src\\adc_dma_test.c",
+  "file": "C:\\Users\\DANNY\\STM32CubeIDE\\BEGINNER_STM32L432KC\\Core\\Src\\adc_dma_test.c",
+  "output": "CMakeFiles\\BEGINNER_STM32L432KC.dir\\Core\\Src\\adc_dma_test.c.obj"
+},
+{
+  "directory": "C:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/build/debug",
+  "command": "C:\\PROGRA~1\\ARM_TO~1\\bin\\AR19DD~1.EXE -IC:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/Core/Inc -IC:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/CMSIS/Include -IC:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/Peripherals/Inc -IC:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/Application/Inc  -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -g3 -DDEBUG -DSTM32L432xx -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage --specs=nano.specs -std=gnu11 -g -std=gnu11 -o CMakeFiles\\BEGINNER_STM32L432KC.dir\\Core\\Src\\adc_dma_tim_test.c.obj -c C:\\Users\\DANNY\\STM32CubeIDE\\BEGINNER_STM32L432KC\\Core\\Src\\adc_dma_tim_test.c",
+  "file": "C:\\Users\\DANNY\\STM32CubeIDE\\BEGINNER_STM32L432KC\\Core\\Src\\adc_dma_tim_test.c",
+  "output": "CMakeFiles\\BEGINNER_STM32L432KC.dir\\Core\\Src\\adc_dma_tim_test.c.obj"
+},
+{
+  "directory": "C:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/build/debug",
+  "command": "C:\\PROGRA~1\\ARM_TO~1\\bin\\AR19DD~1.EXE -IC:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/Core/Inc -IC:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/CMSIS/Include -IC:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/Peripherals/Inc -IC:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/Application/Inc  -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -g3 -DDEBUG -DSTM32L432xx -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage --specs=nano.specs -std=gnu11 -g -std=gnu11 -o CMakeFiles\\BEGINNER_STM32L432KC.dir\\Core\\Src\\adc_test.c.obj -c C:\\Users\\DANNY\\STM32CubeIDE\\BEGINNER_STM32L432KC\\Core\\Src\\adc_test.c",
+  "file": "C:\\Users\\DANNY\\STM32CubeIDE\\BEGINNER_STM32L432KC\\Core\\Src\\adc_test.c",
+  "output": "CMakeFiles\\BEGINNER_STM32L432KC.dir\\Core\\Src\\adc_test.c.obj"
+},
+{
+  "directory": "C:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/build/debug",
+  "command": "C:\\PROGRA~1\\ARM_TO~1\\bin\\AR19DD~1.EXE -IC:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/Core/Inc -IC:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/CMSIS/Include -IC:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/Peripherals/Inc -IC:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/Application/Inc  -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -g3 -DDEBUG -DSTM32L432xx -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage --specs=nano.specs -std=gnu11 -g -std=gnu11 -o CMakeFiles\\BEGINNER_STM32L432KC.dir\\Core\\Src\\exti_PB_TEST.c.obj -c C:\\Users\\DANNY\\STM32CubeIDE\\BEGINNER_STM32L432KC\\Core\\Src\\exti_PB_TEST.c",
+  "file": "C:\\Users\\DANNY\\STM32CubeIDE\\BEGINNER_STM32L432KC\\Core\\Src\\exti_PB_TEST.c",
+  "output": "CMakeFiles\\BEGINNER_STM32L432KC.dir\\Core\\Src\\exti_PB_TEST.c.obj"
+},
+{
+  "directory": "C:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/build/debug",
+  "command": "C:\\PROGRA~1\\ARM_TO~1\\bin\\AR19DD~1.EXE -IC:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/Core/Inc -IC:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/CMSIS/Include -IC:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/Peripherals/Inc -IC:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/Application/Inc  -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -g3 -DDEBUG -DSTM32L432xx -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage --specs=nano.specs -std=gnu11 -g -std=gnu11 -o CMakeFiles\\BEGINNER_STM32L432KC.dir\\Core\\Src\\main.c.obj -c C:\\Users\\DANNY\\STM32CubeIDE\\BEGINNER_STM32L432KC\\Core\\Src\\main.c",
+  "file": "C:\\Users\\DANNY\\STM32CubeIDE\\BEGINNER_STM32L432KC\\Core\\Src\\main.c",
+  "output": "CMakeFiles\\BEGINNER_STM32L432KC.dir\\Core\\Src\\main.c.obj"
+},
+{
+  "directory": "C:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/build/debug",
+  "command": "C:\\PROGRA~1\\ARM_TO~1\\bin\\AR19DD~1.EXE -IC:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/Core/Inc -IC:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/CMSIS/Include -IC:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/Peripherals/Inc -IC:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/Application/Inc  -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -g3 -DDEBUG -DSTM32L432xx -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage --specs=nano.specs -std=gnu11 -g -std=gnu11 -o CMakeFiles\\BEGINNER_STM32L432KC.dir\\Core\\Src\\printf_redirect.c.obj -c C:\\Users\\DANNY\\STM32CubeIDE\\BEGINNER_STM32L432KC\\Core\\Src\\printf_redirect.c",
+  "file": "C:\\Users\\DANNY\\STM32CubeIDE\\BEGINNER_STM32L432KC\\Core\\Src\\printf_redirect.c",
+  "output": "CMakeFiles\\BEGINNER_STM32L432KC.dir\\Core\\Src\\printf_redirect.c.obj"
+},
+{
+  "directory": "C:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/build/debug",
+  "command": "C:\\PROGRA~1\\ARM_TO~1\\bin\\AR19DD~1.EXE -IC:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/Core/Inc -IC:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/CMSIS/Include -IC:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/Peripherals/Inc -IC:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/Application/Inc  -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -g3 -DDEBUG -DSTM32L432xx -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage --specs=nano.specs -std=gnu11 -g -std=gnu11 -o CMakeFiles\\BEGINNER_STM32L432KC.dir\\Core\\Src\\system_stm32l4xx.c.obj -c C:\\Users\\DANNY\\STM32CubeIDE\\BEGINNER_STM32L432KC\\Core\\Src\\system_stm32l4xx.c",
+  "file": "C:\\Users\\DANNY\\STM32CubeIDE\\BEGINNER_STM32L432KC\\Core\\Src\\system_stm32l4xx.c",
+  "output": "CMakeFiles\\BEGINNER_STM32L432KC.dir\\Core\\Src\\system_stm32l4xx.c.obj"
+},
+{
+  "directory": "C:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/build/debug",
+  "command": "C:\\PROGRA~1\\ARM_TO~1\\bin\\AR19DD~1.EXE -IC:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/Core/Inc -IC:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/CMSIS/Include -IC:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/Peripherals/Inc -IC:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/Application/Inc  -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -g3 -DDEBUG -DSTM32L432xx -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage --specs=nano.specs -std=gnu11 -g -std=gnu11 -o CMakeFiles\\BEGINNER_STM32L432KC.dir\\Peripherals\\Src\\adc.c.obj -c C:\\Users\\DANNY\\STM32CubeIDE\\BEGINNER_STM32L432KC\\Peripherals\\Src\\adc.c",
+  "file": "C:\\Users\\DANNY\\STM32CubeIDE\\BEGINNER_STM32L432KC\\Peripherals\\Src\\adc.c",
+  "output": "CMakeFiles\\BEGINNER_STM32L432KC.dir\\Peripherals\\Src\\adc.c.obj"
+},
+{
+  "directory": "C:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/build/debug",
+  "command": "C:\\PROGRA~1\\ARM_TO~1\\bin\\AR19DD~1.EXE -IC:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/Core/Inc -IC:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/CMSIS/Include -IC:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/Peripherals/Inc -IC:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/Application/Inc  -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -g3 -DDEBUG -DSTM32L432xx -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage --specs=nano.specs -std=gnu11 -g -std=gnu11 -o CMakeFiles\\BEGINNER_STM32L432KC.dir\\Peripherals\\Src\\exti.c.obj -c C:\\Users\\DANNY\\STM32CubeIDE\\BEGINNER_STM32L432KC\\Peripherals\\Src\\exti.c",
+  "file": "C:\\Users\\DANNY\\STM32CubeIDE\\BEGINNER_STM32L432KC\\Peripherals\\Src\\exti.c",
+  "output": "CMakeFiles\\BEGINNER_STM32L432KC.dir\\Peripherals\\Src\\exti.c.obj"
+},
+{
+  "directory": "C:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/build/debug",
+  "command": "C:\\PROGRA~1\\ARM_TO~1\\bin\\AR19DD~1.EXE -IC:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/Core/Inc -IC:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/CMSIS/Include -IC:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/Peripherals/Inc -IC:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/Application/Inc  -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -g3 -DDEBUG -DSTM32L432xx -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage --specs=nano.specs -std=gnu11 -g -std=gnu11 -o CMakeFiles\\BEGINNER_STM32L432KC.dir\\Peripherals\\Src\\gpio.c.obj -c C:\\Users\\DANNY\\STM32CubeIDE\\BEGINNER_STM32L432KC\\Peripherals\\Src\\gpio.c",
+  "file": "C:\\Users\\DANNY\\STM32CubeIDE\\BEGINNER_STM32L432KC\\Peripherals\\Src\\gpio.c",
+  "output": "CMakeFiles\\BEGINNER_STM32L432KC.dir\\Peripherals\\Src\\gpio.c.obj"
+},
+{
+  "directory": "C:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/build/debug",
+  "command": "C:\\PROGRA~1\\ARM_TO~1\\bin\\AR19DD~1.EXE -IC:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/Core/Inc -IC:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/CMSIS/Include -IC:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/Peripherals/Inc -IC:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/Application/Inc  -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -g3 -DDEBUG -DSTM32L432xx -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage --specs=nano.specs -std=gnu11 -g -std=gnu11 -o CMakeFiles\\BEGINNER_STM32L432KC.dir\\Peripherals\\Src\\rcc.c.obj -c C:\\Users\\DANNY\\STM32CubeIDE\\BEGINNER_STM32L432KC\\Peripherals\\Src\\rcc.c",
+  "file": "C:\\Users\\DANNY\\STM32CubeIDE\\BEGINNER_STM32L432KC\\Peripherals\\Src\\rcc.c",
+  "output": "CMakeFiles\\BEGINNER_STM32L432KC.dir\\Peripherals\\Src\\rcc.c.obj"
+},
+{
+  "directory": "C:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/build/debug",
+  "command": "C:\\PROGRA~1\\ARM_TO~1\\bin\\AR19DD~1.EXE -IC:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/Core/Inc -IC:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/CMSIS/Include -IC:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/Peripherals/Inc -IC:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/Application/Inc  -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -g3 -DDEBUG -DSTM32L432xx -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage --specs=nano.specs -std=gnu11 -g -std=gnu11 -o CMakeFiles\\BEGINNER_STM32L432KC.dir\\Peripherals\\Src\\tim.c.obj -c C:\\Users\\DANNY\\STM32CubeIDE\\BEGINNER_STM32L432KC\\Peripherals\\Src\\tim.c",
+  "file": "C:\\Users\\DANNY\\STM32CubeIDE\\BEGINNER_STM32L432KC\\Peripherals\\Src\\tim.c",
+  "output": "CMakeFiles\\BEGINNER_STM32L432KC.dir\\Peripherals\\Src\\tim.c.obj"
+},
+{
+  "directory": "C:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/build/debug",
+  "command": "C:\\PROGRA~1\\ARM_TO~1\\bin\\AR19DD~1.EXE -IC:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/Core/Inc -IC:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/CMSIS/Include -IC:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/Peripherals/Inc -IC:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/Application/Inc  -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -g3 -DDEBUG -DSTM32L432xx -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage --specs=nano.specs -std=gnu11 -g -std=gnu11 -o CMakeFiles\\BEGINNER_STM32L432KC.dir\\Peripherals\\Src\\usart.c.obj -c C:\\Users\\DANNY\\STM32CubeIDE\\BEGINNER_STM32L432KC\\Peripherals\\Src\\usart.c",
+  "file": "C:\\Users\\DANNY\\STM32CubeIDE\\BEGINNER_STM32L432KC\\Peripherals\\Src\\usart.c",
+  "output": "CMakeFiles\\BEGINNER_STM32L432KC.dir\\Peripherals\\Src\\usart.c.obj"
+}
+]

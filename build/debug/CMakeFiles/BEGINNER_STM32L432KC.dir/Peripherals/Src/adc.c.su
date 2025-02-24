@@ -1,0 +1,16 @@
+C:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/CMSIS/Include/core_cm4.h:1679:22:__NVIC_EnableIRQ	16	static
+C:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/CMSIS/Include/core_cm4.h:1717:22:__NVIC_DisableIRQ	16	static
+C:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/CMSIS/Include/core_cm4.h:1809:22:__NVIC_SetPriority	16	static
+C:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/Peripherals/Src/adc.c:14:6:adc_SINGLEchannel_AutoDelayedConversionMode_continuous_Config_PLLSAI1src	16	static
+C:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/Peripherals/Src/adc.c:67:6:adc_SINGLEchannel_AutoDelayedConversionMode_continuous_Config_HCLKsrc	16	static
+C:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/Peripherals/Src/adc.c:116:6:adc_MULTICHANNEL_Config	8	static
+C:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/Peripherals/Src/adc.c:179:6:adc_MULTICHANNEL_TIM6trgo_Config_	8	static
+C:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/Peripherals/Src/adc.c:246:6:adc_MULTICHANNEL_DMA_Config	16	static
+C:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/Peripherals/Src/adc.c:285:6:adc_START	4	static
+C:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/Peripherals/Src/adc.c:300:6:adc_STOP	4	static
+C:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/Peripherals/Src/adc.c:308:6:adc_PollEOC	24	static
+C:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/Peripherals/Src/adc.c:320:10:adc_READ_Value	4	static
+C:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/Peripherals/Src/adc.c:327:6:adc_ADCVREG_STUP_delay	16	static
+C:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/Peripherals/Src/adc.c:335:6:adc_EOCIE_ENABLE	8	static
+C:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/Peripherals/Src/adc.c:342:6:adc_EOCIE_DISABLE	8	static
+C:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/Peripherals/Src/adc.c:352:6:adc_SingleAWD_Config	16	static

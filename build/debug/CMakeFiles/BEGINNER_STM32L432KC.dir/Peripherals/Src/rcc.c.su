@@ -1,0 +1,10 @@
+C:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/CMSIS/Include/core_cm4.h:1679:22:__NVIC_EnableIRQ	16	static
+C:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/CMSIS/Include/core_cm4.h:1770:22:__NVIC_ClearPendingIRQ	16	static
+C:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/CMSIS/Include/core_cm4.h:1809:22:__NVIC_SetPriority	16	static
+C:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/Peripherals/Src/rcc.c:15:6:rcc_MSI_PLL_config	4	static
+C:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/Peripherals/Src/rcc.c:72:6:rcc_MSI_PLLSAL1R_config	4	static
+C:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/Peripherals/Src/rcc.c:117:6:rcc_SysTick_config	16	static
+C:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/Peripherals/Src/rcc.c:136:6:rcc_msIncTick	4	static
+C:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/Peripherals/Src/rcc.c:142:10:rcc_msGetTick	4	static
+C:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/Peripherals/Src/rcc.c:149:6:rcc_msDelay	24	static
+C:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/Peripherals/Src/rcc.c:156:6:SysTick_Handler	8	static

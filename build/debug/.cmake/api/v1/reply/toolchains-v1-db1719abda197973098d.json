@@ -1,0 +1,65 @@
+{
+	"kind" : "toolchains",
+	"toolchains" : 
+	[
+		{
+			"compiler" : 
+			{
+				"id" : "GNU",
+				"implicit" : {},
+				"path" : "C:/Program Files/ARM_Toolchain/bin/arm-none-eabi-as.exe",
+				"version" : ""
+			},
+			"language" : "ASM",
+			"sourceFileExtensions" : 
+			[
+				"s",
+				"S",
+				"asm"
+			]
+		},
+		{
+			"compiler" : 
+			{
+				"id" : "GNU",
+				"implicit" : 
+				{
+					"includeDirectories" : 
+					[
+						"C:/Program Files/ARM_Toolchain/lib/gcc/arm-none-eabi/14.2.1/include",
+						"C:/Program Files/ARM_Toolchain/lib/gcc/arm-none-eabi/14.2.1/include-fixed",
+						"C:/Program Files/ARM_Toolchain/arm-none-eabi/include"
+					],
+					"linkDirectories" : 
+					[
+						"C:/Program Files/ARM_Toolchain/lib/gcc/arm-none-eabi/14.2.1",
+						"C:/Program Files/ARM_Toolchain/lib/gcc",
+						"C:/Program Files/ARM_Toolchain/arm-none-eabi/lib"
+					],
+					"linkFrameworkDirectories" : [],
+					"linkLibraries" : 
+					[
+						"gcc",
+						"c",
+						"gcc",
+						"c",
+						"nosys"
+					]
+				},
+				"path" : "C:/Program Files/ARM_Toolchain/bin/arm-none-eabi-gcc.exe",
+				"version" : "14.2.1"
+			},
+			"language" : "C",
+			"sourceFileExtensions" : 
+			[
+				"c",
+				"m"
+			]
+		}
+	],
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}

@@ -1,0 +1,3 @@
+C:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/build/debug/CMakeFiles/BEGINNER_STM32L432KC.dir
+C:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/build/debug/CMakeFiles/edit_cache.dir
+C:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/build/debug/CMakeFiles/rebuild_cache.dir

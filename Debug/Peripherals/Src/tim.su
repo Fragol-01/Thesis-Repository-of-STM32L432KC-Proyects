@@ -1,0 +1,5 @@
+C:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/CMSIS/Include/core_cm4.h:1679:22:__NVIC_EnableIRQ	16	static,ignoring_inline_asm
+C:/Users/DANNY/STM32CubeIDE/BEGINNER_STM32L432KC/CMSIS/Include/core_cm4.h:1809:22:__NVIC_SetPriority	16	static
+../Peripherals/Src/tim.c:14:6:tim_TIM6_with_INTERRPUT_Config	16	static
+../Peripherals/Src/tim.c:61:6:tim_TIM6_Config	16	static
+../Peripherals/Src/tim.c:99:6:tim_TIM1_AWD_Config	16	static
